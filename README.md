@@ -1,0 +1,2 @@
+# kizzy
+Discord Music Bot
